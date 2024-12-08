@@ -1,3 +1,3 @@
-# gemini_chat_bot
+# LUMUS_AI
 
 A new Flutter project.
